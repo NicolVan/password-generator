@@ -1,0 +1,53 @@
+#display{
+    width: 500px;
+    height: 200px;;
+    background-color: rgb(53, 126, 223);
+    color: whitesmoke;
+    text-align: center;
+    border-radius: 5px;
+    outline: 5px solid rgb(136, 163, 202); 
+    outline-offset: 5px;
+    border-color: whitesmoke; 
+
+}
+h1{
+    text-align: center;
+    color: whitesmoke;
+}
+#input{
+   height: 25px;
+   width: 200px;
+   margin-top: 20px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#passw{
+    margin-top: 20px;
+    height: 25px;
+    width: 200px;
+}
+button{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: rgb(11, 97, 177);
+    outline: 5px solid rgb(82, 144, 238);  
+    margin: 10px;
+    margin-top: 20px;
+    color: whitesmoke;
+    outline-style: outset;
+    border-color: whitesmoke;
+    outline-offset: 2px;
+    
+}
+label{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+button:hover{
+    background-color: rgb(15, 51, 167);
+    color: rgb(255, 255, 255);
+    
+}
+body{
+    background-color: black;
+}
